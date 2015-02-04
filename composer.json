@@ -1,7 +1,7 @@
 {
     "name": "buskamuza/test-m2-pack",
     "type": "library",
-    "version": "0.42.0-beta6"
+    "version": "0.42.0-beta6",
     "require": {
         "magento/module-catalog": "self.version",
         "magento/module-usps": "self.version"
